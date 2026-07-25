@@ -1,12 +1,22 @@
-# abdelrahmansayed
-# Hi, I'm Abdelrahman Sayed 👋
+# Abdelrahman Sayed
+Hi, I'm Abdelrahman Sayed
+QA Engineer | Manual & Automation Testing
 
-## QA Automation Engineer
+I'm a QA Engineer with experience in both Manual and Automation Testing, focused on delivering high-quality web applications through effective testing strategies and scalable automation frameworks.
 
-I'm a QA Automation Engineer passionate about building reliable and maintainable test automation frameworks. I enjoy improving software quality by automating web applications using modern testing tools and best practices.
+# Core Expertise
+## Manual Testing
+* Functional, Regression, Integration, Smoke, and Sanity Testing
+* Test Planning, Test Case Design, and Test Scenarios
+* Requirement Analysis, Static Testing, and Early Defect Detection
+* Defect Reporting, Bug Tracking, and Traceability
+* API Testing (Requests, Responses, Authentication & Validation)
+* Database Testing using SQL and MongoDB
+* Browser Developer Tools for Debugging and Network Analysis
+* Log Analysis and Root Cause Investigation
+* SDLC, STLC, and Agile/Scrum Methodologies
 
-###  Tech Stack
-
+## Automation Testing
 * Java
 * Selenium WebDriver
 * TestNG
@@ -33,8 +43,6 @@ A Selenium automation framework for the Jumia Egypt website built with Java, Cuc
 A data-driven Selenium automation framework for Swag Labs using Java, TestNG, and the Page Object Model.
 
 Repository: https://github.com/your-username/swaglabs-automation-framework
-
----
 
 
 ---
